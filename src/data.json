@@ -1,0 +1,702 @@
+[
+    {
+        "id": 1,
+        "title": "ParaNorman",
+        "upvotes": 71,
+        "date": "1/14/2023",
+        "image": "http://dummyimage.com/241x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 2,
+        "title": "Summer Days With Coo",
+        "upvotes": 79,
+        "date": "8/4/2022",
+        "image": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 3,
+        "title": "I Like Killing Flies",
+        "upvotes": 74,
+        "date": "5/23/2022",
+        "image": "http://dummyimage.com/122x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 4,
+        "title": "Suburban Commando",
+        "upvotes": 100,
+        "date": "8/15/2022",
+        "image": "http://dummyimage.com/134x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 5,
+        "title": "Foul Play",
+        "upvotes": 89,
+        "date": "1/26/2023",
+        "image": "http://dummyimage.com/164x100.png/dddddd/000000"
+    },
+    {
+        "id": 6,
+        "title": "V.I.P.s, The",
+        "upvotes": 22,
+        "date": "4/21/2022",
+        "image": "http://dummyimage.com/181x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 7,
+        "title": "Girl Who Played with Fire, The (Flickan som lekte med elden)",
+        "upvotes": 37,
+        "date": "7/23/2022",
+        "image": "http://dummyimage.com/217x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 8,
+        "title": "Fjols til fjells",
+        "upvotes": 20,
+        "date": "12/17/2022",
+        "image": "http://dummyimage.com/197x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 9,
+        "title": "White Hell of Pitz Palu, The (Die weiße Hölle vom Piz Palü) ",
+        "upvotes": 29,
+        "date": "12/6/2022",
+        "image": "http://dummyimage.com/103x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 10,
+        "title": "Who's Singin' Over There? (a.k.a. Who Sings Over There) (Ko to tamo peva)",
+        "upvotes": 83,
+        "date": "8/20/2022",
+        "image": "http://dummyimage.com/125x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 11,
+        "title": "In Enemy Hands",
+        "upvotes": 31,
+        "date": "4/3/2022",
+        "image": "http://dummyimage.com/172x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 12,
+        "title": "Bright Lights, Big City",
+        "upvotes": 34,
+        "date": "5/31/2022",
+        "image": "http://dummyimage.com/108x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 13,
+        "title": "Scorchers",
+        "upvotes": 100,
+        "date": "10/29/2022",
+        "image": "http://dummyimage.com/222x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 14,
+        "title": "Bride with White Hair, The (Bai fa mo nu zhuan)",
+        "upvotes": 27,
+        "date": "7/11/2022",
+        "image": "http://dummyimage.com/111x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 15,
+        "title": "Block-Heads",
+        "upvotes": 99,
+        "date": "4/13/2022",
+        "image": "http://dummyimage.com/221x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 16,
+        "title": "Good Old Fashioned Orgy, A",
+        "upvotes": 11,
+        "date": "1/18/2023",
+        "image": "http://dummyimage.com/205x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 17,
+        "title": "Front Page, The",
+        "upvotes": 19,
+        "date": "12/6/2022",
+        "image": "http://dummyimage.com/168x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 18,
+        "title": "Across the Hall",
+        "upvotes": 9,
+        "date": "10/31/2022",
+        "image": "http://dummyimage.com/230x100.png/dddddd/000000"
+    },
+    {
+        "id": 19,
+        "title": "Words and Pictures",
+        "upvotes": 87,
+        "date": "4/16/2022",
+        "image": "http://dummyimage.com/199x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 20,
+        "title": "Beaver, The",
+        "upvotes": 83,
+        "date": "3/27/2022",
+        "image": "http://dummyimage.com/218x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 21,
+        "title": "Feast at Midnight, A",
+        "upvotes": 46,
+        "date": "4/7/2022",
+        "image": "http://dummyimage.com/108x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 22,
+        "title": "Transcendence",
+        "upvotes": 6,
+        "date": "12/28/2022",
+        "image": "http://dummyimage.com/171x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 23,
+        "title": "Passenger 57",
+        "upvotes": 75,
+        "date": "11/1/2022",
+        "image": "http://dummyimage.com/210x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 24,
+        "title": "Dream Land",
+        "upvotes": 23,
+        "date": "1/19/2023",
+        "image": "http://dummyimage.com/229x100.png/dddddd/000000"
+    },
+    {
+        "id": 25,
+        "title": "Baghead",
+        "upvotes": 43,
+        "date": "11/21/2022",
+        "image": "http://dummyimage.com/197x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 26,
+        "title": "Fear City: A Family-Style Comedy (La cité de la peur)",
+        "upvotes": 46,
+        "date": "9/10/2022",
+        "image": "http://dummyimage.com/210x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 27,
+        "title": "Curse of the Werewolf, The",
+        "upvotes": 23,
+        "date": "6/4/2022",
+        "image": "http://dummyimage.com/114x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 28,
+        "title": "Picture Bride (Bijo photo)",
+        "upvotes": 28,
+        "date": "10/21/2022",
+        "image": "http://dummyimage.com/208x100.png/dddddd/000000"
+    },
+    {
+        "id": 29,
+        "title": "World of Apu, The (Apur Sansar)",
+        "upvotes": 19,
+        "date": "8/9/2022",
+        "image": "http://dummyimage.com/162x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 30,
+        "title": "Meu Passado Me Condena: O Filme",
+        "upvotes": 30,
+        "date": "11/9/2022",
+        "image": "http://dummyimage.com/131x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 31,
+        "title": "Terror of Mechagodzilla (Mekagojira no gyakushu)",
+        "upvotes": 33,
+        "date": "9/2/2022",
+        "image": "http://dummyimage.com/211x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 32,
+        "title": "Peter & the Wolf",
+        "upvotes": 39,
+        "date": "7/17/2022",
+        "image": "http://dummyimage.com/198x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 33,
+        "title": "Happiness (Schastye)",
+        "upvotes": 42,
+        "date": "1/25/2023",
+        "image": "http://dummyimage.com/229x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 34,
+        "title": "Phat Beach",
+        "upvotes": 98,
+        "date": "4/22/2022",
+        "image": "http://dummyimage.com/117x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 35,
+        "title": "Stage Fright (Deliria)",
+        "upvotes": 7,
+        "date": "6/27/2022",
+        "image": "http://dummyimage.com/193x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 36,
+        "title": "21 Grams",
+        "upvotes": 4,
+        "date": "11/16/2022",
+        "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 37,
+        "title": "Carry on Cabby",
+        "upvotes": 79,
+        "date": "8/1/2022",
+        "image": "http://dummyimage.com/198x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 38,
+        "title": "Last Unicorn, The",
+        "upvotes": 78,
+        "date": "12/5/2022",
+        "image": "http://dummyimage.com/240x100.png/dddddd/000000"
+    },
+    {
+        "id": 39,
+        "title": "Homework",
+        "upvotes": 38,
+        "date": "12/13/2022",
+        "image": "http://dummyimage.com/162x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 40,
+        "title": "Rutles 2: Can't Buy Me Lunch, The",
+        "upvotes": 84,
+        "date": "4/16/2022",
+        "image": "http://dummyimage.com/114x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 41,
+        "title": "It's Good to Be Alive",
+        "upvotes": 99,
+        "date": "7/12/2022",
+        "image": "http://dummyimage.com/131x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 42,
+        "title": "Raincoat",
+        "upvotes": 97,
+        "date": "2/12/2023",
+        "image": "http://dummyimage.com/238x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 43,
+        "title": "Night Falls on Manhattan",
+        "upvotes": 70,
+        "date": "6/17/2022",
+        "image": "http://dummyimage.com/169x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 44,
+        "title": "Evil Roy Slade",
+        "upvotes": 85,
+        "date": "2/25/2023",
+        "image": "http://dummyimage.com/114x100.png/dddddd/000000"
+    },
+    {
+        "id": 45,
+        "title": "In God We Teach",
+        "upvotes": 75,
+        "date": "8/2/2022",
+        "image": "http://dummyimage.com/143x100.png/dddddd/000000"
+    },
+    {
+        "id": 46,
+        "title": "Darling Companion",
+        "upvotes": 27,
+        "date": "8/1/2022",
+        "image": "http://dummyimage.com/248x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 47,
+        "title": "Highway ",
+        "upvotes": 82,
+        "date": "9/30/2022",
+        "image": "http://dummyimage.com/188x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 48,
+        "title": "Once Upon a Scoundrel",
+        "upvotes": 5,
+        "date": "4/15/2022",
+        "image": "http://dummyimage.com/223x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 49,
+        "title": "Darkest Night",
+        "upvotes": 87,
+        "date": "8/31/2022",
+        "image": "http://dummyimage.com/173x100.png/dddddd/000000"
+    },
+    {
+        "id": 50,
+        "title": "Warrior",
+        "upvotes": 9,
+        "date": "4/17/2022",
+        "image": "http://dummyimage.com/101x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 51,
+        "title": "Invisible Waves",
+        "upvotes": 58,
+        "date": "10/16/2022",
+        "image": "http://dummyimage.com/101x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 52,
+        "title": "Dragons Forever",
+        "upvotes": 15,
+        "date": "7/10/2022",
+        "image": "http://dummyimage.com/167x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 53,
+        "title": "Beautiful Girls",
+        "upvotes": 29,
+        "date": "7/12/2022",
+        "image": "http://dummyimage.com/174x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 54,
+        "title": "Bingo Long Traveling All-Stars & Motor Kings, The",
+        "upvotes": 21,
+        "date": "9/14/2022",
+        "image": "http://dummyimage.com/193x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 55,
+        "title": "Naked Kiss, The",
+        "upvotes": 77,
+        "date": "5/2/2022",
+        "image": "http://dummyimage.com/164x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 56,
+        "title": "13 Sins",
+        "upvotes": 1,
+        "date": "1/26/2023",
+        "image": "http://dummyimage.com/100x100.png/dddddd/000000"
+    },
+    {
+        "id": 57,
+        "title": "Loaded",
+        "upvotes": 54,
+        "date": "8/18/2022",
+        "image": "http://dummyimage.com/233x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 58,
+        "title": "Destruction Force",
+        "upvotes": 22,
+        "date": "1/9/2023",
+        "image": "http://dummyimage.com/237x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 59,
+        "title": "How to Seduce Difficult Women",
+        "upvotes": 55,
+        "date": "6/30/2022",
+        "image": "http://dummyimage.com/230x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 60,
+        "title": "Freddy Got Fingered",
+        "upvotes": 6,
+        "date": "1/9/2023",
+        "image": "http://dummyimage.com/153x100.png/dddddd/000000"
+    },
+    {
+        "id": 61,
+        "title": "Time Machine, The",
+        "upvotes": 50,
+        "date": "10/21/2022",
+        "image": "http://dummyimage.com/226x100.png/dddddd/000000"
+    },
+    {
+        "id": 62,
+        "title": "Things You Can Tell Just by Looking at Her",
+        "upvotes": 50,
+        "date": "7/15/2022",
+        "image": "http://dummyimage.com/166x100.png/dddddd/000000"
+    },
+    {
+        "id": 63,
+        "title": "Woodstock Diary",
+        "upvotes": 9,
+        "date": "10/26/2022",
+        "image": "http://dummyimage.com/127x100.png/dddddd/000000"
+    },
+    {
+        "id": 64,
+        "title": "Lonelyhearts",
+        "upvotes": 85,
+        "date": "9/17/2022",
+        "image": "http://dummyimage.com/177x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 65,
+        "title": "Fifty-Fifty (a.k.a. Schizo) (Shiza)",
+        "upvotes": 2,
+        "date": "6/11/2022",
+        "image": "http://dummyimage.com/142x100.png/dddddd/000000"
+    },
+    {
+        "id": 66,
+        "title": "Serial (Bad) Weddings (Qu'est-ce Qu'on An Fit Au Bon Dieu?)",
+        "upvotes": 4,
+        "date": "3/10/2023",
+        "image": "http://dummyimage.com/128x100.png/dddddd/000000"
+    },
+    {
+        "id": 67,
+        "title": "M for Mother (Mim mesle madar)",
+        "upvotes": 31,
+        "date": "12/29/2022",
+        "image": "http://dummyimage.com/212x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 68,
+        "title": "Relax... It's Just Sex",
+        "upvotes": 72,
+        "date": "6/8/2022",
+        "image": "http://dummyimage.com/127x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 69,
+        "title": "Class",
+        "upvotes": 93,
+        "date": "9/9/2022",
+        "image": "http://dummyimage.com/227x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 70,
+        "title": "Last Ride, The",
+        "upvotes": 54,
+        "date": "3/16/2022",
+        "image": "http://dummyimage.com/218x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 71,
+        "title": "Night Train",
+        "upvotes": 61,
+        "date": "2/9/2023",
+        "image": "http://dummyimage.com/167x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 72,
+        "title": "Pocahontas",
+        "upvotes": 38,
+        "date": "3/29/2022",
+        "image": "http://dummyimage.com/196x100.png/dddddd/000000"
+    },
+    {
+        "id": 73,
+        "title": "Campus Man",
+        "upvotes": 56,
+        "date": "11/4/2022",
+        "image": "http://dummyimage.com/179x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 74,
+        "title": "Delhi-6",
+        "upvotes": 4,
+        "date": "2/12/2023",
+        "image": "http://dummyimage.com/209x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 75,
+        "title": "Beeswax",
+        "upvotes": 63,
+        "date": "8/25/2022",
+        "image": "http://dummyimage.com/111x100.png/dddddd/000000"
+    },
+    {
+        "id": 76,
+        "title": "Tormented",
+        "upvotes": 56,
+        "date": "2/20/2023",
+        "image": "http://dummyimage.com/112x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 77,
+        "title": "Monty Python Live at the Hollywood Bowl",
+        "upvotes": 43,
+        "date": "8/14/2022",
+        "image": "http://dummyimage.com/215x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 78,
+        "title": "Notorious C.H.O.",
+        "upvotes": 32,
+        "date": "7/31/2022",
+        "image": "http://dummyimage.com/122x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 79,
+        "title": "Countess Dracula",
+        "upvotes": 38,
+        "date": "12/26/2022",
+        "image": "http://dummyimage.com/139x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 80,
+        "title": "Tusk",
+        "upvotes": 75,
+        "date": "10/5/2022",
+        "image": "http://dummyimage.com/222x100.png/dddddd/000000"
+    },
+    {
+        "id": 81,
+        "title": "Free Samples",
+        "upvotes": 96,
+        "date": "12/23/2022",
+        "image": "http://dummyimage.com/230x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 82,
+        "title": "You Don't Know Jack",
+        "upvotes": 34,
+        "date": "5/31/2022",
+        "image": "http://dummyimage.com/230x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 83,
+        "title": "Who Killed Vincent Chin?",
+        "upvotes": 28,
+        "date": "5/24/2022",
+        "image": "http://dummyimage.com/220x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 84,
+        "title": "Rock-A-Doodle",
+        "upvotes": 61,
+        "date": "9/4/2022",
+        "image": "http://dummyimage.com/112x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 85,
+        "title": "Motocrossed",
+        "upvotes": 88,
+        "date": "1/16/2023",
+        "image": "http://dummyimage.com/239x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 86,
+        "title": "Powder Blue",
+        "upvotes": 89,
+        "date": "4/26/2022",
+        "image": "http://dummyimage.com/192x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 87,
+        "title": "Blackout",
+        "upvotes": 63,
+        "date": "2/17/2023",
+        "image": "http://dummyimage.com/108x100.png/dddddd/000000"
+    },
+    {
+        "id": 88,
+        "title": "Texas Killing Fields",
+        "upvotes": 74,
+        "date": "8/6/2022",
+        "image": "http://dummyimage.com/131x100.png/dddddd/000000"
+    },
+    {
+        "id": 89,
+        "title": "Hollywood and The Pentagon: A Dangerous Liaison",
+        "upvotes": 74,
+        "date": "5/28/2022",
+        "image": "http://dummyimage.com/203x100.png/dddddd/000000"
+    },
+    {
+        "id": 90,
+        "title": "My Best Girl",
+        "upvotes": 76,
+        "date": "10/25/2022",
+        "image": "http://dummyimage.com/111x100.png/dddddd/000000"
+    },
+    {
+        "id": 91,
+        "title": "3 Backyards",
+        "upvotes": 32,
+        "date": "5/15/2022",
+        "image": "http://dummyimage.com/130x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 92,
+        "title": "Walking Tall",
+        "upvotes": 26,
+        "date": "3/4/2023",
+        "image": "http://dummyimage.com/247x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 93,
+        "title": "Like Mike",
+        "upvotes": 68,
+        "date": "12/18/2022",
+        "image": "http://dummyimage.com/238x100.png/dddddd/000000"
+    },
+    {
+        "id": 94,
+        "title": "Ballad of a Soldier (Ballada o soldate)",
+        "upvotes": 68,
+        "date": "2/3/2023",
+        "image": "http://dummyimage.com/182x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 95,
+        "title": "Burglar",
+        "upvotes": 15,
+        "date": "12/13/2022",
+        "image": "http://dummyimage.com/222x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 96,
+        "title": "Three Musketeers, The",
+        "upvotes": 25,
+        "date": "6/18/2022",
+        "image": "http://dummyimage.com/144x100.png/cc0000/ffffff"
+    },
+    {
+        "id": 97,
+        "title": "Death Takes a Holiday",
+        "upvotes": 22,
+        "date": "11/24/2022",
+        "image": "http://dummyimage.com/248x100.png/5fa2dd/ffffff"
+    },
+    {
+        "id": 98,
+        "title": "Ken Park",
+        "upvotes": 60,
+        "date": "12/5/2022",
+        "image": "http://dummyimage.com/108x100.png/dddddd/000000"
+    },
+    {
+        "id": 99,
+        "title": "Spring Subway",
+        "upvotes": 27,
+        "date": "7/3/2022",
+        "image": "http://dummyimage.com/115x100.png/ff4444/ffffff"
+    },
+    {
+        "id": 100,
+        "title": "Chill",
+        "upvotes": 36,
+        "date": "4/2/2022",
+        "image": "http://dummyimage.com/127x100.png/cc0000/ffffff"
+    }
+]
